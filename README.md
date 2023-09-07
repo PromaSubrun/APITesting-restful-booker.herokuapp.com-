@@ -1,17 +1,20 @@
 # APITesting-restful-booker.herokuapp.com
 This project is focused on API testing for the restful-booker.herokuapp.com web service. It provides a collection of API test cases and instructions to help you get started with testing the restful-booker API.
 
+
 Features:
 
 1. A collection of API test cases for restful-booker.
 2. Easy-to-understand test scripts.
 3. Instructions on setting up and running tests.
 
+
 Getting Started:
 
 1. Clone this repository.
 2. Follow the setup instructions in the README to prepare your testing environment.
 3. Execute the API tests as described in the documentation.
+
 
 Project Structure:
 
@@ -21,14 +24,10 @@ Project Structure:
 
 3. restful-booker.herokuapp.postman_collection.json: This file is a Postman collection JSON file. It likely contains a collection of API requests and test cases that can be imported into Postman for testing and automation.
 
-4. restful-booker.herokuapp.postman_environment.json: This file may be a Postman environment JSON file, used to configure environment variables and settings for API testing within Postman.
+4. restful-booker.herokuapp.postman_environment.json: This file contains the Postman environment JSON file, used to configure environment variables and settings for API testing within Postman.
+
 
 Contributions:
 
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to enhance this API testing project.
-Happy Automating! 🚀
-
-
-
-
-
+Happy API-Testing! 🚀
